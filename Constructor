@@ -1,14 +1,16 @@
 #include<iostream.h>
 #include<conio.h>
+
 class maths
 {
 private:
 	int a;
 public:
-	Maths();
+	maths();
 	void showdata();
 };
-maths::Maths()
+
+maths::maths()
 {
 cout<<"\nThis is a constructor";
 a = 100;
@@ -18,6 +20,7 @@ void maths::showdata()
 {
 cout<<"\nThe value of a = "<<a;
 }
+
 void main()
 {
 maths m;
