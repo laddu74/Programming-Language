@@ -25,5 +25,6 @@ void main()
 {
 maths m;
 m.showdata();
+
 getch();
 }
