@@ -18,7 +18,7 @@ public:
 
 main()
 {
-call c1,c2;
+call c1,c2,c3;
 getch();
 return 0;
 }
