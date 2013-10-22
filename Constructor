@@ -1,0 +1,26 @@
+#include<iostream.h>
+#include<conio.h>
+class maths
+{
+private:
+	int a;
+public:
+	Maths();
+	void showdata();
+};
+maths::Maths()
+{
+cout<<"\nThis is a constructor";
+a = 100;
+}
+
+void maths::showdata()
+{
+cout<<"\nThe value of a = "<<a;
+}
+void main()
+{
+maths m;
+m.showdata();
+getch();
+}
