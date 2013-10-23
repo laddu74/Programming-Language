@@ -2,7 +2,7 @@ Cpp-programming
 ===============
 ## Contributors
 
-<a href="https://twitter.com/mallorypaine" target="_blank"><img src="http://www.gravatar.com/avatar/76db5d6bdcb64ac9e86e6a521ab57f03.jpg?s=85" alt="Mallory Paine"></a>  
+<a href="https://twitter.com/mallorypaine" target="_blank"><img src="http://en.gravatar.com/userimage/50118376/8d3ca96d906f30d014001b15cbe97126.jpg?size=200" alt="Mallory Paine"></a>  
 **Mallory Paine** — Author and Original API Design  
 <a href="https://twitter.com/mallorypaine" target="_blank">@mallorypaine</a>
 
