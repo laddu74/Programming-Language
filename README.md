@@ -1,4 +1,4 @@
-Cpp-programming
+Data Structures Through C++
 ===============
 ## Contributors
 
