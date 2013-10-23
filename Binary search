@@ -1,3 +1,4 @@
+//Write a program for implementation of binary search tree perform insertion deletion &searching display of tree
 #include<iostream.h>
 class bintree{type struct bst{int data;struct bst *left *right;}node;
 node *root,*new,*temp,*parent;
